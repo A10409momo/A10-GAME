@@ -1,0 +1,27 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    padding: 20px;
+}
+
+.hidden {
+    display: none;
+}
+
+#game-container {
+    margin-top: 20px;
+}
+
+#game-text {
+    font-size: 18px;
+    padding: 10px;
+    border: 1px solid #000;
+    background-color: #f9f9f9;
+    display: inline-block;
+}
+
+button {
+    margin: 10px;
+    padding: 10px 20px;
+    font-size: 16px;
+}
